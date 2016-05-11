@@ -1,0 +1,3 @@
+[submodule "rayjack_server"]
+	path = rayjack_server
+	url = https://github.com/titoh-pa/rayjack_server.git
